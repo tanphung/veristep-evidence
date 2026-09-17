@@ -1,0 +1,1 @@
+Trial accounts cannot export. Paid accounts may export only after administrator approval. Every paid-account export requires administrator approval; there is no automatic-export exception.
